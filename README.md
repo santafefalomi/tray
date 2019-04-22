@@ -8,7 +8,7 @@ Para criarmos um tema base para desenvolvimento, é preciso ter Ruby instalado n
 
 Há um tutorial da própria Tray de como podemos criar um tema do zero: [http://dev.tray.com.br/frontend/console-tool/#new](http://dev.tray.com.br/frontend/console-tool/#new)
 
-Obs: *API_KEY* e *PASSWORD* serão fornecidos pelo Gerente de Projetos da agência.
+Obs: **API_KEY** e **PASSWORD** serão fornecidos pelo Gerente de Projetos da agência.
 
 ## Desenvolvimento
 
